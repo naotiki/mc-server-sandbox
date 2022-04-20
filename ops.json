@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "380fc5c7-bd75-4143-ad58-99d9907396bd",
+    "name": "naotiki_unity",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
